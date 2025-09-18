@@ -4,8 +4,7 @@
 @theme {
   --color-maisha: #e5bc7c;
   --color-medha: #75504B;
-}
-
-@theme {
+  --font-maisha:  "Bitcount Ink", system-ui;
   --radius-maisha: 20px; 
 }
+
